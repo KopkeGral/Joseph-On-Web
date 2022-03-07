@@ -1,2 +1,1 @@
-# Joseph-On-Web
-josephOnWEB
+Joseph Bot hizmetinizde!
